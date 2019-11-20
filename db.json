@@ -1,4 +1,6 @@
 {
+    "destinations": [
+    {       
         id: 1,
         name: 'Paris, France',
         places: [
@@ -66,3 +68,5 @@
             }
         ]
     }
+   ]
+}        
